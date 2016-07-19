@@ -1,0 +1,9 @@
+<html>
+<body>
+<script>
+var ar = ["W","H","O"];
+//alert(ar.toString());
+alert(ar);
+</script>
+</body>
+</html>
